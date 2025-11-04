@@ -23,8 +23,8 @@ export default function Page() {
           I'm a recent graduate from the University of Central Florida's Burnett Honors College with a Bachelor of Science in Computer Science. 
           I'm now actively seeking opportunities as a Software Engineer or Machine Learning Engineer. 
           I'm eager to join a team where I can contribute to impactful projects and learn from experienced pros. 
-          I love coding, especially with Python, JavaScript, TypeScript, Java, and C, and I'm always trying out new libraries and frameworks. 
-          In my free time, you can find me tinkering and learning more about computer vision and natural language processing.
+          I love coding, especially with Python, JavaScript, TypeScript, Java, and C. 
+          I am passionate about the training of language models, and the field of natural langauge processing.
         </p>
       </div>
     </section>

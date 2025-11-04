@@ -16,7 +16,7 @@ export default function AboutMe(){
               I am particularly fond of Chopin and currently working on Ballade No. 4 in F Minor, Op. 52.
               I enjoy traveling and have visited California, Peru, London, and Paris.
               In high school, I reached rank 1 on the Overwatch competitive ladder.
-              In college I reached Diamond as an AD Carry main on League of Legends, while making the Dean's list each semester.
+              In college I reached Masters (99.7th percentile) on League of Legends, while making the Dean's list each semester.
             </p>
           </div>
       </section>
